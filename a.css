@@ -17,8 +17,6 @@ body{
 }
 
 .title{
-    font-size: 20px;
-    height: 25px;
     margin-left: 50px;
     white-space: nowrap;
     font-size:clamp(10px,4vw,20px)   
@@ -159,4 +157,5 @@ body{
     height: 10px;
     font-size: 14px;
     color: darkblue;
+
 }
